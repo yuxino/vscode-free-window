@@ -4,7 +4,7 @@
   "publisher": "lp-moyu-free-window",
   "icon": "icon.png",
   "description": "",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": "https://github.com/lecepin/vscode-free-window",
   "engines": {
     "vscode": "^1.52.0"
